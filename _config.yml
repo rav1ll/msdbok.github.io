@@ -1,5 +1,7 @@
-theme: minima
+remote_theme: benbalter/retlab
 
+plugins:
+  - jekyll-remote-theme
 title: Managing Software Development Body of Knowledge
 description: Review of the research in software development management
 
