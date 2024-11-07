@@ -6,3 +6,6 @@ Managing Software Development Body of Knowledge
 * Scope
 * Processes
 * Planning
+
+
+* [People 2](/people2/)
