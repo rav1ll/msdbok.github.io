@@ -1,0 +1,12 @@
+---
+layout: page
+permalink: /people/
+title: People Directory
+---
+<ul>
+    {% for paper in site.people %}
+        <li>
+            <a href="{{ paper.url }}">{{ paper.title }}</a>  by {{ paper.author }}
+        </li>
+    {% endfor %}
+</ul>
