@@ -6,4 +6,4 @@ Management Issues in Software Development
 1. [Planning](/planning/)
 
 
-Note: [Article template](./template.md)
+Note: [MSD article template](./template.md)
