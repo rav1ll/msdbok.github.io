@@ -1,7 +1,7 @@
 ---
 title: People 2
-layout: collection
+layout: category
 permalink: /people2/
-collection: people
+taxonomy: people
 ---
 # Collection layout for People 2
