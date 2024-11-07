@@ -1,3 +1,6 @@
+---
+title: Scope
+---
 #Papers about Scope Management in Software Development
 
 Examples:

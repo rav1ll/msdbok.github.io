@@ -1,3 +1,6 @@
+---
+title: People and Teams
+---
 # Papers about Technical People and Teams Aspects in Software Development
 
 * Personalities
