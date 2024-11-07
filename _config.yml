@@ -1,7 +1,7 @@
 # remote_theme: benbalter/retlab
 # remote_theme:  oinam/oinam-jekyll
 # remote_theme:  daattali/beautiful-jekyll@6.0.1
-remote_theme:  m1kql/jekyll-academic
+remote_theme:  mmistakes/so-simple-theme
 plugins:
   - jekyll-remote-theme
 title: Managing Software Development Body of Knowledge
