@@ -1,6 +1,6 @@
 Management Issues in Software Development
 
-* [People and Teams](/people/)
-* [Scope](/scope/)
-* [Process Issues](/process/)
-* [Planning](/planning/)
+1. [People and Teams](/people/)
+1. [Process Issues](/process/)
+1. [Scope](/scope/)
+1. [Planning](/planning/)
