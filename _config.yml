@@ -11,3 +11,9 @@ description: Review of the research in software development management
 collections:
   people:
     output: true
+  process:
+    output: true
+  scope:
+    output: true
+  planning:
+    output: true
