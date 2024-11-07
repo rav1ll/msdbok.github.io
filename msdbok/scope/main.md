@@ -1,7 +1,7 @@
 ---
 title: Scope
 ---
-#Papers about Scope Management in Software Development
+# Papers about Scope Management in Software Development
 
 Examples:
 * Work Break Down Structure
