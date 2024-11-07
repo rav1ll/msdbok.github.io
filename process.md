@@ -1,6 +1,7 @@
 ---
 title: Process papers
-layout: category
+layout: categories
+entries_layout: grid
 permalink: /process/
 taxonomy: process
 ---
