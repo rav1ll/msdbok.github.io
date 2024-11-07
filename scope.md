@@ -2,8 +2,8 @@
 title: Scope management-related papers
 layout: collection
 show_excerpts: false
-permalink: /process/
-collection: process
+permalink: /scope/
+collection: scope
 ---
 
 # Papers about Scope Management in Software Development
