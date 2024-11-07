@@ -1,5 +1,6 @@
 ---
 title: Scope
+category: scope
 ---
 # Papers about Scope Management in Software Development
 
