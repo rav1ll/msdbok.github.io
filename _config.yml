@@ -1,6 +1,6 @@
-theme: minima
+theme: minimal
 title: Managing Software Develpment Body of Knowledge
-description: This repository is dedicated to collecting the updated information about the research in software development management
+description: Review of the research in software development management
 
 collections:
   msdbok:
