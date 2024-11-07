@@ -1,4 +1,4 @@
-## Management Issues in Software Development
+Management Issues in Software Development
 
 * [People and Teams](/people/)
 * [Scope](/scope/)
