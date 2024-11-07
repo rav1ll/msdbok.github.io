@@ -3,3 +3,7 @@ plugins:
 - jekyll-remote-theme
 title: Managing Software Develpment Body of Knowledge
 description: This repository is dedicated to collecting the updated information about the research in software development management
+
+collections:
+  msdbok:
+    output: true
