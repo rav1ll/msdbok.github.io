@@ -1,6 +1,4 @@
-remote_theme: vaibhavvikas/jekyll-theme-minimalistic
-plugins:
-- jekyll-remote-theme
+theme: minima
 title: Managing Software Develpment Body of Knowledge
 description: This repository is dedicated to collecting the updated information about the research in software development management
 
