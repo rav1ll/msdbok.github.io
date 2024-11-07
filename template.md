@@ -3,7 +3,8 @@ title: MSD Paper Template
 author: Jane Smith
 layout: page
 ---
-# MSD Paper Example
+# Title: MSD Paper Example
+author: Firstname Lastname, Affiliation (eg Jane Smith, Innopolis University)
 
 ## Abstract 
 
