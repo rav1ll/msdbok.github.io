@@ -1,67 +1,66 @@
 ---
 title: MSD Paper Template
-author: Jane Smith
+author: Andrey Sadovykh
 layout: page
 ---
 # Title: MSD Paper Example
-author: Firstname Lastname, Affiliation (eg Jane Smith, Innopolis University)
+*Author: Firstname Lastname, Affiliation (e.g., Jane Smith, Innopolis University) 👤*
+*Year: 2024*
 
-### Abstract 
+### Abstract 📝
 
-Short discription of the paper including list of your contributions.
+Provide a concise description of your paper, including a summary of your key contributions and findings. The abstract should give readers a clear idea of what to expect from your paper. Aim for about **200-300 words**.
 
-The maximum length should be arround 5000 - 6000 words, excluding bibliography.
+*Note: The full paper should be approximately **5000-6000 words**, excluding the bibliography.*
 
-## Introduction
+## 1. Introduction 📖
 
-Introduce the subject.
+Introduce the subject of your paper. Define the scope of your research and set the stage for the reader by explaining the context of the topic.
 
-### Motivation
+### 1.1 Motivation 💡
 
-Why the topic is important? Justify with numbers (if possible).
+Explain why the chosen topic is important. Justify its significance with relevant data, statistics, or industry trends if possible.
 
-### Pbm statement
+### 1.2 Problem Statement ❓
 
-What problem your paper solves?
+Define the problem your paper seeks to address. State your original contribution and how it adds value to the existing body of knowledge.
 
-What is your original contribution.
+## 2. Related Work 🔗
 
-## Related work
+Review **5-10 relevant papers** that are important to your topic. Discuss their relevance, main findings, and limitations. Highlight how your work differentiates or builds upon these existing studies.
 
-Introduce 5-10 relevant papers and discuss their relevance to the subject.
+## 3. Discussion 💬
 
-## Discussion
+Provide a thorough analysis and comparison of the reviewed literature. Use comparison tables, charts, or figures where relevant to enhance clarity.
 
-Compare and summarize. Use comparison tables whenever relevant.
+* Include any **original insights** or unique perspectives that you have developed.
+* Discuss practical applications or implications for managing software development.
 
-Any original insigts? 
+## 4. Conclusions 🏁
 
-## Conclusions
+Summarize the main findings of your paper. Reiterate which aspects are your original contributions and insights. Conclude with a discussion on the importance and potential impact of your findings.
 
-Summarize.
-Discuss, what of the above your original ideas and insigts.
-Add conclusions about importance of your findings.
+## 5. References 📚
 
-## References
-
-Use IEEE format.
+List all references using the **IEEE format**. Ensure that your bibliography includes **5-10 high-quality academic sources**. 
 
 (Optional)
-* make a public library in Zotero for this paper.
-* provide a link to this Zotero library
+* Create and link to a public Zotero library for this paper to provide easy access to your references.
 
-## AI-generated content disclaimers
-The author declares that the his original ideas are in the core of the content of the article.
+## 6. AI-Generated Content Disclaimers 🤖
 
-AI usage self-declaration:
-* Translation \[yes\|no\]
-* Spelling correction \[yes\|no\]
-* Text styling \[yes\|no\]
-* Summarization \[yes\|no\]
-* Content extraction \[yes\|no\]
-* Ideas generation \[yes\|no\]
-* Other \[specify...\]
+Authors must declare the extent to which AI tools were used in the preparation of their paper. This ensures transparency and academic integrity.
 
-## Reviewers comments
+* The author affirms that the core ideas presented in the paper are original.
+* AI usage self-declaration:
+  * Translation [yes|no]
+  * Spelling correction [yes|no]
+  * Text styling [yes|no]
+  * Summarization [yes|no]
+  * Content extraction [yes|no]
+  * Ideas generation [yes|no]
+  * Other [specify...]
 
-We will provide the review to briefly discuss the quality of your paper and avert the audience.
+## 7. Reviewers' Comments ✍️
+
+Feedback will be provided by reviewers, which will include a summary of the strengths and areas for improvement of your paper. This feedback aims to guide both the author and potential readers.
