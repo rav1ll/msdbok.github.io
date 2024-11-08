@@ -6,9 +6,11 @@ layout: page
 # Title: MSD Paper Example
 author: Firstname Lastname, Affiliation (eg Jane Smith, Innopolis University)
 
-## Abstract 
+### Abstract 
 
-short discription of the paper including contributions.
+Short discription of the paper including list of your contributions.
+
+The maximum length should be arround 5000 - 6000 words, excluding bibliography.
 
 ## Introduction
 
