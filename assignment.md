@@ -3,67 +3,81 @@ title: MSD Paper Assignment
 author: Andrey Sadovykh
 layout: page
 ---
+# Managing Software Development Course Paper Assignment Instructions 📚
+*Author: Andrey Sadovykh 👤*
 
-# Quick instructions
-## Submission
+# Quick Instructions 📝
 
-* Use [Fork and Pull Request](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project)
-* Create your paper by following the [Template](./template.md)
-* Issue **Pull Request** when ready to submit
-* Copy the link to the **Pull Request** to the submission on Moodle
+## Submission 📤
 
-## Getting Feedback
+* Use [Fork and Pull Request](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) to submit your work.
+* Create your paper using the provided [Template](./template.md).
+* Submit your paper by issuing a **Pull Request**.
+* Copy the link to your **Pull Request** and submit it on Moodle.
 
-* The MSDBOK admins (intructors and teaching assistants) will provide feeback in comments to your **Pull Request**
-* After review and revision good papers (grade 7+) will be published
-* The MSDBOK admins reserve right to withdraw papers that do not follow academic rules on e.g. integrity and copyright
-* The AI-usage self-declaration is mandatory for all papers past 2022 see the [Template](./template.md)  
+## Getting Feedback 💬
 
-# Managing Software Development Course Paper
-## Context
-All software projects will deal with people, processes and technology, from the developer view, and resources, time, scope and quality from the client view.  The industry as a whole is very volatile with continuing changes in technology.  Developers are continually searching for better practices to reduce costs while improving their ability to deliver a “quality” product on time that provides value to the customer.  Accordingly developers need to be able to apply past “best practices” of development, through analysis and synthesis of these, that are tailored for their current projects. 
+* **Feedback** will be provided by MSDBOK admins (instructors and teaching assistants) through comments on your **Pull Request**.
+* High-quality papers (graded 7 or above) may be published after review and revision.
+* MSDBOK admins reserve the right to withdraw papers that violate academic integrity or copyright policies.
+* All papers must include the mandatory AI-usage self-declaration for submissions past 2022. Refer to the [Template](./template.md) for details.
 
-## Learning objectives
-To develop a strong understanding of a single aspect of software engineering project management to complement other coursework. 
-1.	Develop research and problem-solving skills. 
-2.	To conduct literature research in the area of Software Engineering 
-3.	Practice ability to succinctly present written results to a managerial audience. 
-4.	To synthesize Software Engineering lessons learned, best practices into a usable model for future development. 
+## Context 🔍
 
-## Assignment
-Select a topic of interest to you that is related to material covered in this course, ie People, Teams, Processes, Scope, Planning and Controlling.  Research and write a report that is designed to be read by someone (imagine a past or future boss, colleague, future MSD student) with an interest in, but no knowledge of, the topic you are addressing.  The report should cover what is currently known/believed about this topic, and should especially focus on how to practically use this information.  
+Software projects are multifaceted, involving people, processes, and technology from the developer's perspective, as well as managing resources, time, scope, and quality from the client's view. The software industry is inherently dynamic, with continual advancements in technology. Developers are tasked with finding effective practices to reduce costs while delivering high-quality, timely products that provide customer value. To succeed, developers must learn to apply and adapt past "best practices" through analysis and synthesis tailored to current project needs.
 
-* *Nice* papers that are effectively just “reading reports”
-* __Good__ papers show a synthesis of material in how it would be applied to improve a software development effort.
-* **Best** papers present original and insightful thoughts that resonate with readers (such as instructors and TAs)
+## Learning Objectives 🎯
 
-### More
-* The report should begin with an abstract, which is an executive summary.
-* Papers should be about 5000-6000 words, not including reference section
-* Use IEEE format for the references. See the [guide](https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf)
-* The bibliography should have 5-10 academic sources. Prefer IEEE, ACM, Springer papers.
-* Great to have 1-3 of [primary sources](https://umb.libguides.com/PrimarySources/secondary) (original research)
-* Web pages typically are not very good sources and will not be counted in the grade for bibiliographie
-* Cite all sources used and relate to the topic you discuss in the paper. _You should have learned hard about that so far._
-* Plagiarism is not acceptable, we will check
-* The AI-usage self-declaration is mandatory for all papers past 2022 see the [Template](./template.md)  
+This assignment aims to deepen your understanding of a particular aspect of software engineering project management and enhance your skill set as follows:
 
-## Grading. Total 10 points
+1. **Strengthen research and problem-solving skills.**
+2. **Conduct literature research in software engineering.**
+3. **Practice presenting succinct, manager-ready written reports.**
+4. **Synthesize lessons learned and best practices into a practical model for future development.**
 
-* (2) - original **topic** that points to a synthesis and analysis of specific area
-* (2) - **bibliography** - 5 or more high quality academic sources
-* (2) - **readability**, clearness, structure, coherence
-* (4) - **content**. See above on *Nice*, __Good__ and **Best** papers.
+## Assignment Overview 📝
 
-Papers above 7 points grade are to be published.
+Choose a topic related to course material (e.g., People, Teams, Processes, Scope, Planning, Controlling) and research it in depth. Your report should be designed for a reader (e.g., a past or future boss, colleague, or MSD student) who is interested in but unfamiliar with the topic. Focus on presenting the current understanding of your chosen topic and, most importantly, on practical applications.
 
-# Hints and tips
+* *Basic* papers serve as literature summaries.
+* __Good__ papers synthesize the material and demonstrate its application in improving software development efforts.
+* **Excellent** papers offer original, insightful analysis that engages and resonates with readers.
 
-## Selecting a topic
+### Additional Guidelines 📝
 
-* Pick a topic that you like linked to MSD areas - people and teams, processes, scope, planning and controlling
-* Chances are your topic is very broad or too narrow
-* Check [Google Scholar](https://scholar.google.com) for relevant papers
-* Ensure you have enough material to cover your topic
-* Adjust the topic to focus on a specific subject
+* Start with an **abstract** summarizing your paper's main points.
+* Papers should be approximately **5000-6000 words** (excluding references).
+* Format references using the **IEEE style**. Refer to the [guide](https://www.bath.ac.uk/publications/library-guides-to-citing-referencing/attachments/ieee-style-guide.pdf).
+* Include **5-10 academic sources** in your bibliography, preferably from IEEE, ACM, or Springer publications.
+* Aim to incorporate **1-3 primary sources** (e.g., original research).
+* Avoid relying on general web pages as key sources; these will not count toward your bibliography grade.
+* Ensure all sources are properly cited and related to your discussion. Familiarity with academic integrity should guide your work.
+* **Plagiarism is strictly prohibited** and will be checked.
+* The mandatory AI-usage self-declaration must be completed for all papers submitted after 2022. See the [Template](./template.md) for details.
 
+## Grading Criteria (Total: 10 Points) 🏆
+
+* **(2 points)** - **Original Topic**: Demonstrates a focus on synthesis and analysis of a specific area.
+* **(2 points)** - **Bibliography**: Includes 5 or more high-quality academic sources.
+* **(2 points)** - **Readability**: Clear, well-structured, and coherent writing.
+* **(4 points)** - **Content Quality**: See notes above on *Basic*, __Good__, and **Excellent** papers.
+
+Papers receiving a grade of **7 or higher** are eligible for publication.
+
+# Hints and Tips 💡
+
+## Choosing a Topic 🔎
+
+* Select a topic you are passionate about, linked to MSD areas (e.g., people and teams, processes, scope, planning, and controlling).
+* Be mindful of your topic's breadth; adjust as needed to find the right balance.
+* Use [Google Scholar](https://scholar.google.com) to explore relevant academic papers.
+* Ensure there is sufficient material to comprehensively cover your topic.
+* Narrow or broaden your focus as necessary for a thorough analysis.
+
+## AI-Generated Content Disclaimer 🤖
+
+The author declares that his original ideas are the core of this article's content. The content is verified for factual accuracy.
+
+**AI Usage Self-Declaration**:
+* Spelling correction: [yes]
+* Text styling: [yes]
