@@ -47,19 +47,20 @@ List all references using the **IEEE format**. Ensure that your bibliography inc
 (Optional)
 * Create and link to a public Zotero library for this paper to provide easy access to your references.
 
-## 6. AI-Generated Content Disclaimers 🤖
-
-Authors must declare the extent to which AI tools were used in the preparation of their paper. This ensures transparency and academic integrity.
-
-* The author affirms that the core ideas presented in the paper are original.
-* AI usage self-declaration:
-  * Translation [yes|no]
-  * Spelling correction [yes|no]
-  * Text styling [yes|no]
-  * Summarization [yes|no]
-  * Content extraction [yes|no]
-  * Ideas generation [yes|no]
-  * Other [specify...]
+> ## 6.🔔 AI-Generated Content Disclaimers 🤖
+>  
+> Authors must declare the extent to which AI tools were used in the preparation of their paper. This ensures transparency and academic integrity.
+> 
+> **The author affirms that the core ideas presented in the paper are original.**
+>
+> **AI usage self-declaration:**
+> * Translation [yes|no]
+> * Spelling correction [yes|no]
+> * Text styling [yes|no]
+> * Summarization [yes|no]
+> * Content extraction [yes|no]
+> * Ideas generation [yes|no]
+> * Other [specify...]
 
 ## 7. Reviewers' Comments ✍️
 

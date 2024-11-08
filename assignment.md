@@ -74,10 +74,10 @@ Papers receiving a grade of **7 or higher** are eligible for publication.
 * Ensure there is sufficient material to comprehensively cover your topic.
 * Narrow or broaden your focus as necessary for a thorough analysis.
 
-## AI-Generated Content Disclaimer 🤖
-
-The author declares that his original ideas are the core of this article's content. The content is verified for factual accuracy.
-
-**AI Usage Self-Declaration**:
-* Spelling correction: [yes]
-* Text styling: [yes]
+> ### 🔔 AI-Generated Content Disclaimer 🤖
+> 
+> The author declares that his original ideas are the core of this article's content. The content is verified for factual accuracy.
+> 
+> **AI Usage Self-Declaration**:
+> * Spelling correction: [yes]
+> * Text styling: [yes]
