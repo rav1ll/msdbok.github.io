@@ -55,7 +55,7 @@ You can now add citations and lists of references following the syntax described
 
 For example, here is a reference to a paper about DevOps in Regulated Software Development {% cite laukkarinen_devops_2017 %}. 
 
-If you need a multiple citation, simply list all the cites {% cite brahamsson_leanagile_2010 noauthor_creation_2024 lie_devops_2020 %}
+If you need a multiple citation, simply list all the cites {% cite abrahamsson_leanagile_2010 lie_devops_2020 %}
 
 #### Generated List of References
 
