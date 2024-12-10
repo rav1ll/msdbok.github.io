@@ -1,7 +1,8 @@
 ---
-title: MSD Paper Template
+title: MSD Homepage
 author: Andrey Sadovykh
 layout: page
+permalink: /
 ---
 
 **Management Issues in Software Development 📘**
@@ -24,8 +25,8 @@ Welcome to the collection of student papers exploring various facets of managing
 
 ## Resources 🛠️
 
-* **Instructions for the MSD Paper**: [Read the full MSD paper instructions](./assignment.md)
-* **Article Template**: [Check the MSD article template](./template.md)
+* **Instructions for the MSD Paper**: [Read the full MSD paper instructions](/assignment/)
+* **Article Template**: [Check the MSD article template](/template/)
 
 ---
 

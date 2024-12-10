@@ -2,6 +2,7 @@
 title: MSD Paper Template
 author: Andrey Sadovykh
 layout: page
+permalink: /template/
 ---
 
 # Title: MSD Paper Example
