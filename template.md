@@ -44,6 +44,14 @@ Summarize the main findings of your paper. Reiterate which aspects are your orig
 
 List all references using the **IEEE format**. Ensure that your bibliography includes **5-10 high-quality academic sources**. 
 
+You can now add citations and lists of references following the syntax described [here][jekyll-scholar-citations]. 
+
+For example, here is a reference to one of the first SETI papers {% cite Cocconi1959 %}. 
+
+Now I can get on with my literature review and make notes with citations as I go along.
+
+{% bibliography --cited %}
+
 (Optional)
 * Create and link to a public Zotero library for this paper to provide easy access to your references.
 
@@ -65,3 +73,6 @@ List all references using the **IEEE format**. Ensure that your bibliography inc
 ## 7. Reviewers' Comments ✍️
 
 Feedback will be provided by reviewers, which will include a summary of the strengths and areas for improvement of your paper. This feedback aims to guide both the author and potential readers.
+
+
+[jekyll-scholar-citations]: https://github.com/inukshuk/jekyll-scholar#citations
