@@ -23,4 +23,4 @@ Welcome to the collection of student papers exploring various facets of managing
 
 ---
 
-These resources and papers are aimed at providing a comprehensive view of managing software development and equipping readers with practical and theoretical insights.
+These resources and papers are aimed at providing a comprehensive view of managing software development and equipping readers with practical and theoretical insights
