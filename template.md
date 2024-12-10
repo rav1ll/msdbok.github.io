@@ -3,6 +3,7 @@ title: MSD Paper Template
 author: Andrey Sadovykh
 layout: page
 ---
+
 # Title: MSD Paper Example
 *Author: Firstname Lastname, Affiliation (e.g., Jane Smith, Innopolis University) 👤*
 *Year: 2024*

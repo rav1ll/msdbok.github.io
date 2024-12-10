@@ -1,3 +1,9 @@
+---
+title: MSD Paper Template
+author: Andrey Sadovykh
+layout: page
+---
+
 **Management Issues in Software Development 📘**
 
 Welcome to the collection of student papers exploring various facets of managing software development. Each paper delves into crucial management topics and provides unique insights that contribute to understanding and enhancing the practice of software development.
