@@ -47,15 +47,17 @@ List all references using the **IEEE format**. Ensure that your bibliography inc
 (Optional)
 * Create and link to a public Zotero library for this paper to provide easy access to your references.
 
-Export your Zotero library in BibTex format.
+### 5.1 How to attach references?
+
+Export your Zotero library in BibTex format. Then put the content into `_bibliography/references.bib`.
 
 You can now add citations and lists of references following the syntax described [here][jekyll-scholar-citations]. 
 
-For example, here is a reference to one of the first SETI papers {% cite Cocconi1959 %}. 
+For example, here is a reference to a paper about DevOps in Regulated Software Development {% cite laukkarinen_devops_2017 %}. 
 
-If you need a multiple citation, simply list all the cites {% cite brahamsson_leanagile_2010 noauthor_creation_2024 lie_devops_2020%}
+If you need a multiple citation, simply list all the cites {% cite brahamsson_leanagile_2010 noauthor_creation_2024 lie_devops_2020 %}
 
-### Generated List of References
+#### Generated List of References
 
 {% bibliography --cited %}
 
