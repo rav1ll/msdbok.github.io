@@ -44,16 +44,21 @@ Summarize the main findings of your paper. Reiterate which aspects are your orig
 
 List all references using the **IEEE format**. Ensure that your bibliography includes **5-10 high-quality academic sources**. 
 
+(Optional)
+* Create and link to a public Zotero library for this paper to provide easy access to your references.
+
+Export your Zotero library in BibTex format.
+
 You can now add citations and lists of references following the syntax described [here][jekyll-scholar-citations]. 
 
 For example, here is a reference to one of the first SETI papers {% cite Cocconi1959 %}. 
 
-Now I can get on with my literature review and make notes with citations as I go along.
+If you need a multiple citation, simply list all the cites {% cite brahamsson_leanagile_2010 noauthor_creation_2024 lie_devops_2020%}
+
+### Generated List of References
 
 {% bibliography --cited %}
 
-(Optional)
-* Create and link to a public Zotero library for this paper to provide easy access to your references.
 
 > ## 6.🔔 AI-Generated Content Disclaimers 🤖
 >  
