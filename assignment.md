@@ -2,7 +2,9 @@
 title: MSD Paper Assignment
 author: Andrey Sadovykh
 layout: page
+permalink: /assignment/
 ---
+
 # Managing Software Development Course Paper Assignment Instructions 📚
 *Author: Andrey Sadovykh 👤*
 
